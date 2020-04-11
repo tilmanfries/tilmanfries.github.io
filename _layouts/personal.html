@@ -1,0 +1,46 @@
+---
+ layout: custom_default
+---
+
+<div class="row">
+ <div class="column left">
+  <h1 class="content-listing-header sans top_border">{{ page.my_name }}</h1>
+ <p>{{ page.position }}</p>
+ <p>{{ page.institution }}</p>
+  <p class="extra_space"><a href=mailto:{{ page.email }}>{{ page.email }}</a>
+  </p>
+  <p>
+    <img src="{{site.baseurl}}/assets/img/profile_pic.jpg" alt="CH" height="400" width="266">
+  </p>
+ </div>
+ <div class="column middle">
+   <br style=“line-height:500px;”><br>
+   <h1 class="content-listing-sub-header sans bottom_border"> About me </h1>
+   <p class="extra_space"> {{ content }} </p>
+     <p class="extra_space"> You can find my CV <a href={{ site.url }}/assets/pdf/cv.pdf>here</a>. </p>
+ </div>
+ <div class="column right bottom_border">
+   <br style=“line-height:150px;”><br>
+   <h1 class="content-listing-sub-header sans bottom_border"> Research </h1>
+     {% for item in page.projects %}
+     <p class="extra_space">
+     {% if item.link != "none" %}
+      <u><a class="alt" href={{ item.link }}>{{ item.name }}</a></u>
+     {% endif %}
+     {% if item.link == "none" %}
+      <u>{{ item.name }}</u>
+     {% endif %}
+    {% if item.pdf != "none" %}
+    &nbsp;[<a href={{ site.url }}/assets/pdf/{{ item.pdf }}>pdf</a>]
+    {% endif %}
+    {% if item.abstract != "none" %}
+    <div class="expand" style="display: none; height: 0; overflow: hidden;">
+      {{ item.abstract }}
+    </div>
+    {% endif %}
+    {% if item.collab != "none" %}
+    <p> with {{ item.collab}} </p>
+    {% endif %}
+
+    {% endfor %}
+ </div>

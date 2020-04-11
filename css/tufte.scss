@@ -57,9 +57,19 @@ html{
 .mathblock{
   font-size: 1.3rem;
 }
+
 a {
   color: $contrast-color;
   text-decoration: none;
+}
+
+a.alt {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #191970;
 }
 
 p > a { @if $link-style == underline
@@ -121,7 +131,7 @@ p .subtitle { font-style: italic;
 
 p, ol, ul { font-size: 1.4rem; }
 
-p, li { line-height: 2rem;
+p.extra_space, li { line-height: 2rem;
         margin-top: 1.4rem;
         padding-right: 2rem; //removed because,  why?
         vertical-align: baseline; }
@@ -413,6 +423,13 @@ h1.content-listing-header{
   font-size: 1.8rem;
 }
 
+h1.content-listing-sub-header{
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1.5rem;
+}
+
 li.listing hr{
   width:100%;
 }
@@ -595,3 +612,47 @@ hr.slender {
   content: "\e60e";
 }
 /*-- End of Icomoon icon font section --*/
+
+/* Some custom add-ons */
+
+/* Create three unequal columns that floats next to each other */
+.column {
+  float: left;
+}
+
+.left {
+  width: 23%;
+  margin: 25px;
+}
+
+.middle {
+  width: 23%;
+  margin: 25px;
+}
+
+.right {
+  width: 40%;
+  margin: 25px;
+}
+
+
+h1.top_border {
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+
+  padding-top:10px;
+  border-width: 5px;
+}
+
+h1.bottom_border {
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: solid;
+  border-left-style: none;
+  padding-bottom:10px;
+
+  border-width: 5px;
+
+}
