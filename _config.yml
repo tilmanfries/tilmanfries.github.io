@@ -1,4 +1,5 @@
-baseurl: tilmanfries.github.io
+url: tilmanfries.github.io
+baseurl: ""
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
 author: tilman fries
