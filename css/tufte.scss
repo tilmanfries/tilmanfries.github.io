@@ -635,6 +635,11 @@ hr.slender {
   margin: 25px;
 }
 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
 
 h1.top_border {
   border-top-style: solid;
