@@ -1,6 +1,6 @@
 ---
 layout: personal
-title: Home
+title: Tilman Fries
 my_name: Tilman Fries
 position: Doctoral researcher
 institution: WZB Berlin and Berlin School of Economics
