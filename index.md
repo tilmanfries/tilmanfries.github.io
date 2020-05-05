@@ -9,7 +9,7 @@ projects:
   - name: "Because I (don't) deserve it: Entitlement and lying behavior"
     collab: Daniel Parra
     pdf: lying_merit.pdf
-    link: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3564587"
+    link: none
     abstract: "This paper studies, theoretically and experimentally, whether the entitlement effect created by deservingness affects the willingness to lie. In a laboratory experiment, we compare the lying behavior of high-endowment participants with low-endowment participants. In one treatment, the allocation of the endowment is decided by participants' effort, and in the other, it is determined by a random draw. When participants lie to keep money directly determined by their effort, those who receive the high endowment lie more than those who receive the low endowment. In contrast, when income is determined by a random draw, lying is the same regardless of the endowment. These findings are consistent with our model of relative entitlement concerns where less deserving individuals are discouraged from lying because they believe that other individuals are more deserving than themselves."
   - name: Observability and lying
     collab: Uri Gneezy, Agne Kajackaite, and Daniel Parra
