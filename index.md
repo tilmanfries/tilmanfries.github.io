@@ -20,7 +20,15 @@ projects:
     collab: none
     pdf: none
     link: none
-    abstract: "Theoretical models of lying often incorporate image concerns. They usually assume that agents have an image concern that depends on the probability with which an observer believes they lied. I develop an image model where agents instead want to appear of honest character, which they do by signaling a high intrinsic moral cost of lying. A signaling motive emerges where agents dislike being suspected of lying and where some types liars are more stigmatized than others. I test the theoretical predictions in an experiment. In contrast previous literature, the experimental results show no evidence that image concerns influence lying behavior in the laboratory."
+    abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In
+    the theoretical analysis, a signaling motive emerges where agents dislike being suspected
+    of lying and where some types of liars are more stigmatized than others. The equilibrium
+    prediction of the model can explain experimental data from previous studies, in particular
+    on partial lying, where some agents dishonestly report a non payoff-maximizing report. I
+    discuss the relationship with previous theoretical models of lying that conceptualize the image
+    concern as an aversion to being suspected of lying. The second half of the paper tests the
+    theoretical predictions in an experiment. In contrast to previous literature, the experimental
+    results show no evidence that image concerns influence lying behavior in the laboratory."
 ---
 
 I am interesterd in Behavioral Economics and Game Theory. In my research, I aim to combine theory with empirical methods.
