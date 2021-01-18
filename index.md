@@ -19,7 +19,7 @@ projects:
   - name: Signaling motives in lying games
     collab: none
     pdf: none
-    link: none
+    link: https://rationality-and-competition.de/wp-content/uploads/2021/01/269.pdf
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In
     the theoretical analysis, a signaling motive emerges where agents dislike being suspected
     of lying and where some types of liars are more stigmatized than others. The equilibrium
