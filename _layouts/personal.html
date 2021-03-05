@@ -30,8 +30,11 @@
      {% if item.link == "none" %}
       <u>{{ item.name }}</u>
      {% endif %}
+     {% if item.collab != "none" %}
+     with {{ item.collab}}
+     {% endif %}
      {% if item.journal != "none" %}
-      <b>{{ item.journal }}</b>
+      <p><b>{{ item.journal }}</b></p>
      {% endif %}
     {% if item.pdf != "none" %}
     &nbsp;[<a href={{ site.url }}/assets/pdf/{{ item.pdf }}>pdf</a>]
@@ -41,9 +44,7 @@
       {{ item.abstract }}
     </div>
     {% endif %}
-    {% if item.collab != "none" %}
-    <p> with {{ item.collab}} </p>
-    {% endif %}
+
 
     {% endfor %}
  </div>
