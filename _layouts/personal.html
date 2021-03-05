@@ -34,10 +34,10 @@
      with {{ item.collab}}
      {% endif %}
      {% if item.journal != "none" %}
-      <p><b>{{ item.journal }}</b></p>
+      <p><i>&nbsp;,{{ item.journal }}</i></p>
      {% endif %}
     {% if item.pdf != "none" %}
-    &nbsp;[<a href={{ site.url }}/assets/pdf/{{ item.pdf }}>pdf</a>]
+    &nbsp;[<a href=/assets/pdf/{{ item.pdf }}>pdf</a>]&nbsp;
     {% endif %}
     {% if item.abstract != "none" %}
     <div class="expand" style="display: none; height: 0; overflow: hidden;">
