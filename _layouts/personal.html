@@ -30,6 +30,9 @@
      {% if item.link == "none" %}
       <u>{{ item.name }}</u>
      {% endif %}
+     {% if item.journal != "none" %}
+      <b>{{ item.journal }}</b>
+     {% endif %}
     {% if item.pdf != "none" %}
     &nbsp;[<a href={{ site.url }}/assets/pdf/{{ item.pdf }}>pdf</a>]
     {% endif %}

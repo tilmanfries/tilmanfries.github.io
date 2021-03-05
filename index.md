@@ -10,16 +10,19 @@ projects:
     collab: Daniel Parra
     pdf: lying_entitlement.pdf
     link: none
-    abstract: "We study the effect of entitlement on the willingness to lie. We set up a theoretical model where entitlement causes some individuals to think they are more deserving of their endowment than others. When given the opportunity to lie to keep their endowment, individuals who feel relatively deserving are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants’ performance, and in the other, it is determined by a random draw. When participants lie to keep money directly determined by their performance, those who receive the high endowment lie more than those who receive the low endowment. In contrast, when income is determined by a random draw, lying is the same regardless of the endowment."
+    journal: forthcoming, Journal of Economic Behavior & Organization
+    abstract: "We study the effect of entitlement on the willingness to lie. We set up a model of lying where individuals feel more or less entitled to their endowment  depending on how they earned it. When given the opportunity to lie to keep their endowment, individuals who feel more entitled are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants' performance, and in the other, it is determined by a random draw. Our study shows that deservingness influences lying in an intuitive direction: when participants’ performance determines income, those who earn less money lie less than those who earn more. We do not find differences in lying when participants perform the same task but lie to keep windfall endowments."
   - name: Observability and lying
     collab: Uri Gneezy, Agne Kajackaite, and Daniel Parra
     pdf: none
     link: none
     abstract: none
+    journal: none
   - name: Signaling motives in lying games
     collab: none
     pdf: lying_signaling.pdf
     link: none
+    journal: none
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In
     the theoretical analysis, a signaling motive emerges where agents dislike being suspected
     of lying and where some types of liars are more stigmatized than others. The equilibrium
