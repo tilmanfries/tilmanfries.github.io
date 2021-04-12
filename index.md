@@ -34,4 +34,4 @@ projects:
     results show no evidence that image concerns influence lying behavior in the laboratory."
 ---
 
-I am interesterd in Behavioral Economics and Game Theory. In my research, I aim to combine theory with empirical methods.
+I am interested in Behavioral Economics and Game Theory. In my research, I aim to combine theory with empirical methods.
