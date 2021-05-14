@@ -34,7 +34,10 @@
      with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
      {% endif %}
      {% if item.journal != "none" %}
-      <i>{{ item.journal }}</i>
+      <i><b>{{ item.journal }}</b></i>,
+     {% endif %}
+     {% if item.issue != "none" %}
+      <i>{{ item.issue }}</i>
      {% endif %}
     {% if item.pdf != "none" %}
     &nbsp;[<a href=/assets/pdf/{{ item.pdf }}>pdf</a>]
