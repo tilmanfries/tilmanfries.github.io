@@ -21,14 +21,14 @@ projects:
     theoretical predictions in an experiment. In contrast to previous literature, the experimental
     results show no evidence that image concerns influence lying behavior in the laboratory."
   - name: Observability and lying
-    collab: <a href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a  href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a  href=https://www.danielparra.me/>Daniel Parra</a>
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://www.danielparra.me/>Daniel Parra</a>
     pdf: none
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121002778
     abstract: Experimental participants in a cheating game draw a random number and then report any number they wish, receiving a monetary payoff based only on the report. We study how these reports depend on the level of observability of both the random draw and the report by the experimenter. Our results show that whereas increasing the observability of the random draw decreases cheating, increasing the anonymity of the reports does not affect average reports.
     journal: Journal of Economic Behavior & Organization
     issue: 2021, 189, 132-149
   - name: "Because I (don't) deserve it: Entitlement and lying behavior"
-    collab: <a href=https://www.danielparra.me/>Daniel Parra</a>
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://www.danielparra.me/>Daniel Parra</a>
     pdf: lying_entitlement.pdf
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121001013?dgcid=author
     journal: Journal of Economic Behavior & Organization

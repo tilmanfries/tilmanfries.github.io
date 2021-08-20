@@ -17,7 +17,7 @@
    <br style=“line-height:500px;”><br>
    <h1 class="content-listing-sub-header sans bottom_border"> About me </h1>
    <p class="extra_space"> {{ content }} </p>
-     <p class="extra_space"> You can find my CV <a href=/assets/pdf/cv.pdf>here</a>. </p>
+     <p class="extra_space"> You can find my CV <a target="_blank" rel="noopener noreferrer" href=/assets/pdf/cv.pdf>here</a>. </p>
  </div>
  <div class="column right bottom_border">
    <br style=“line-height:150px;”><br>
@@ -25,7 +25,7 @@
      {% for item in page.projects %}
      <p class="extra_space">
      {% if item.link != "none" %}
-      <u><a class="alt" href={{ item.link }}>{{ item.name }}</a></u>
+      <u><a class="alt" target="_blank" rel="noopener noreferrer" href={{ item.link }}>{{ item.name }}</a></u>
      {% endif %}
      {% if item.link == "none" %}
       <u>{{ item.name }}</u>
@@ -40,7 +40,7 @@
       <i>{{ item.issue }}</i>
      {% endif %}
     {% if item.pdf != "none" %}
-    &nbsp;[<a href=/assets/pdf/{{ item.pdf }}>latest WP</a>]
+    &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.pdf }}>latest WP</a>]
     {% endif %}
     {% if item.abstract != "none" %}
     &nbsp;
