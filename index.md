@@ -7,11 +7,11 @@ institution: WZB Berlin and Berlin School of Economics
 email: tilman.fries@wzb.eu
 projects:
   - name: Narrative persuasion
-  collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
-  pdf: JMP_Fries.pdf
-  link: none
-  journal: none
-  abstract: "Financial advisors frequently propose narratives to explain the recent performance of the stock market and to forecast what it will do next. When advisors’ incentives are not fully aligned with those of the individuals they are advising, there is scope for self-interested persuasion using narratives. In this paper, we use an experiment to learn about the underlying mechanisms that govern this form of persuasion. Our results reveal several insights. First, we characterize the strategies advisers use to construct persuasive narratives. Second, we show that advisors are able to shift investors’ beliefs about the future performance of a company. This harms investors and benefits advisors. Third, we identify the types of narratives that investors adopt. Finally, we evaluate the efficacy of several potential policy interventions aimed at protecting investors. We find that narrative persuasion is difficult to protect against."
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
+    pdf: JMP_Fries.pdf
+    link: none
+    journal: none
+    abstract: "Financial advisors frequently propose narratives to explain the recent performance of the stock market and to forecast what it will do next. When advisors’ incentives are not fully aligned with those of the individuals they are advising, there is scope for self-interested persuasion using narratives. In this paper, we use an experiment to learn about the underlying mechanisms that govern this form of persuasion. Our results reveal several insights. First, we characterize the strategies advisers use to construct persuasive narratives. Second, we show that advisors are able to shift investors’ beliefs about the future performance of a company. This harms investors and benefits advisors. Third, we identify the types of narratives that investors adopt. Finally, we evaluate the efficacy of several potential policy interventions aimed at protecting investors. We find that narrative persuasion is difficult to protect against."
   - name: Signaling motives in lying games
     collab: none
     pdf: lying_signaling.pdf
