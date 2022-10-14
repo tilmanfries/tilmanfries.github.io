@@ -628,15 +628,18 @@ hr.slender {
 .middle {
   width: 23%;
   margin: 25px;
+  margin-top: 0px;
 }
 
 .middlelong {
   width: 63%;
+  margin: 25px;
 }
 
 .right {
   width: 40%;
   margin: 25px;
+  margin-top: 0px;
 }
 
 @media screen and (max-width: 600px) {
