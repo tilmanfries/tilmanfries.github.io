@@ -21,6 +21,10 @@
  </div>
  <div class="column right bottom_border">
    <br style=“line-height:150px;”><br>
+   <h1 class="content-listing-sub-header sans bottom_border"> Job Market </h1>
+
+   <p class="extra_space"> I will be on the 2022/23 job market. My job market paper is joint work with Kai Barron and investigates to what extent people use narratives to convince others to take on certain beliefs. We investigate narrative persuasion in an experiment where advisors send narratives about the performance of a hypothetical company. We find that narratives are effective in persuading investors and evaluate interventions that aim to protect investors from falling for false narratives. You can access the paper <a target="_blank" rel="noopener noreferrer" href=/assets/pdf/JMP_Fries.pdf>here</a>. </p>
+
    <h1 class="content-listing-sub-header sans bottom_border"> Research </h1>
      {% for item in page.projects %}
      <p class="extra_space">
@@ -40,7 +44,7 @@
       <i>{{ item.issue }}</i>
      {% endif %}
     {% if item.pdf != "none" %}
-    &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.pdf }}>latest WP</a>]
+    &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.pdf }}>latest version</a>]
     {% endif %}
     {% if item.abstract != "none" %}
     &nbsp;

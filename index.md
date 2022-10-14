@@ -6,29 +6,27 @@ position: Doctoral researcher
 institution: WZB Berlin and Berlin School of Economics
 email: tilman.fries@wzb.eu
 projects:
+  - name: Narrative persuasion
+  collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
+  pdf: JMP_Fries.pdf
+  link: none
+  journal: none
+  abstract: "Financial advisors frequently propose narratives to explain the recent performance of the stock market and to forecast what it will do next. When advisors’ incentives are not fully aligned with those of the individuals they are advising, there is scope for self-interested persuasion using narratives. In this paper, we use an experiment to learn about the underlying mechanisms that govern this form of persuasion. Our results reveal several insights. First, we characterize the strategies advisers use to construct persuasive narratives. Second, we show that advisors are able to shift investors’ beliefs about the future performance of a company. This harms investors and benefits advisors. Third, we identify the types of narratives that investors adopt. Finally, we evaluate the efficacy of several potential policy interventions aimed at protecting investors. We find that narrative persuasion is difficult to protect against."
   - name: Signaling motives in lying games
     collab: none
     pdf: lying_signaling.pdf
     link: none
     journal: none
-    abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In
-    the theoretical analysis, a signaling motive emerges where agents dislike being suspected
-    of lying and where some types of liars are more stigmatized than others. The equilibrium
-    prediction of the model can explain experimental data from previous studies, in particular
-    on partial lying, where some agents dishonestly report a non payoff-maximizing report. I
-    discuss the relationship with previous theoretical models of lying that conceptualize the image
-    concern as an aversion to being suspected of lying. The second half of the paper tests the
-    theoretical predictions in an experiment. In contrast to previous literature, the experimental
-    results show no evidence that image concerns influence lying behavior in the laboratory."
+    abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In the theoretical analysis, a signaling motive emerges where agents dislike being suspected of lying and where some lies are more stigmatized than others. The equilibrium prediction of the model can explain experimental data from previous studies, in particular on partial lying, where individuals lie to gain a non payoff-maximizing amount. I discuss the relationship with theoretical models of lying that conceptualize the image concern as an aversion to being suspected of lying and provide applications to narratives, learning, and the disclosure of lies."
   - name: Observability and lying
-    collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://www.danielparra.me/>Daniel Parra</a>
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://www.danielparra.co/>Daniel Parra</a>
     pdf: none
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121002778
     abstract: Experimental participants in a cheating game draw a random number and then report any number they wish, receiving a monetary payoff based only on the report. We study how these reports depend on the level of observability of both the random draw and the report by the experimenter. Our results show that whereas increasing the observability of the random draw decreases cheating, increasing the anonymity of the reports does not affect average reports.
     journal: Journal of Economic Behavior & Organization
     issue: 2021, 189, 132-149
   - name: "Because I (don't) deserve it: Entitlement and lying behavior"
-    collab: <a target="_blank" rel="noopener noreferrer"  href=https://www.danielparra.me/>Daniel Parra</a>
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://www.danielparra.co/>Daniel Parra</a>
     pdf: lying_entitlement.pdf
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121001013?dgcid=author
     journal: Journal of Economic Behavior & Organization
