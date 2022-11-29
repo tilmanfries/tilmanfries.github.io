@@ -52,7 +52,7 @@ in_progress:
     pdf: none
     link: none
     journal: none
-    abstract: ""
+    abstract: "Coming soon."
   - name: "Estimating lying in lying experiments [ask me for a draft]"
     collab: none
     pdf: none
