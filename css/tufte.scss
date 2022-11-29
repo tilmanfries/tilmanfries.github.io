@@ -634,6 +634,7 @@ hr.slender {
 .middlelong {
   width: 63%;
   margin: 25px;
+  margin-bottom: 5px;
 }
 
 .right {
@@ -667,4 +668,16 @@ h1.bottom_border {
 
   border-width: 5px;
 
+}
+
+details {
+  font-size: 1.2rem;
+}
+
+details > summary {
+  width: 15em;
+  font-size: 1.3rem;
+  border: none;
+  cursor: pointer;
+  list-style: none;
 }
