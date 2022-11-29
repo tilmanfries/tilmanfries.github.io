@@ -41,7 +41,7 @@ projects:
     issue: 2021, 185, 495-512
     abstract: "We study the effect of entitlement on the willingness to lie. We set up a model of lying where individuals feel more or less entitled to their endowment  depending on how they earned it. When given the opportunity to lie to keep their endowment, individuals who feel more entitled are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants' performance, and in the other, it is determined by a random draw. Our study shows that deservingness influences lying in an intuitive direction: when participants' performance determines income, those who earn less money lie less than those who earn more. We do not find differences in lying when participants perform the same task but lie to keep windfall endowments."
 in_progress:
-  - name: Priors and predjudice
+  - name: Priors and prejudice
     collab: none
     pdf: none
     link: none
