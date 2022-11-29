@@ -42,10 +42,10 @@
        with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
        {% endif %}
        {% if item.journal != "none" %}
-        <i><b>{{ item.journal }}</b></i>
+        <i><b>{{ item.journal }}{% if item.issue != "none" %},{% endif %}</b></i>
        {% endif %}
        {% if item.issue != "none" %}
-        <i>, {{ item.issue }}</i>
+        <i>{{ item.issue }}</i>
        {% endif %}
       {% if item.pdf != "none" %}
       &nbsp;[{{ item.pdf }}]
@@ -76,7 +76,7 @@
      with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
      {% endif %}
      {% if item.journal != "none" %}
-      <i><b>{{ item.journal }}</b></i>,
+      <i><b>{{ item.journal }}{% if item.issue != "none" %},{% endif %}</b></i>
      {% endif %}
      {% if item.issue != "none" %}
       <i>{{ item.issue }}</i>
