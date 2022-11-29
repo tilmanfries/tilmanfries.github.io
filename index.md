@@ -20,6 +20,12 @@ projects:
     link: none
     journal: none
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In the theoretical analysis, a signaling motive emerges where agents dislike being suspected of lying and where some lies are more stigmatized than others. The equilibrium prediction of the model can explain experimental data from previous studies, in particular on partial lying, where individuals lie to gain a non payoff-maximizing amount. I discuss the relationship with theoretical models of lying that conceptualize the image concern as an aversion to being suspected of lying and provide applications to narratives, learning, and the disclosure of lies."
+  - name: Competition and moral behavior: A meta-analysis of 45 crowd-sourced experimental designs
+    collab: Christoph Huber, Anna Dreber, Felix Holzmeister, and many more
+    pdf: none
+    link: none
+    journal: r&r at the Proceedings of the National Academy of Sciences
+    abstract: none
   - name: Observability and lying
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://www.danielparra.co/>Daniel Parra</a>
     pdf: none
