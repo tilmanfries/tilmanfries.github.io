@@ -25,7 +25,7 @@ projects:
     pdf: none
     link: none
     journal: r&r at the Proceedings of the National Academy of Sciences
-    abstract: none
+    abstract: "test."
   - name: Observability and lying
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://www.danielparra.co/>Daniel Parra</a>
     pdf: none
