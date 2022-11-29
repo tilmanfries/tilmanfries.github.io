@@ -31,7 +31,7 @@
  </div>
  <div class="column right bottom_border">
    <br style=“line-height:150px;”><br>
-   <h1 class="content-listing-sub-header sans bottom_border"> Research </h1>
+   <h1 class="content-listing-sub-header sans bottom_border"> Research Papers </h1>
      {% for item in page.projects %}
      <p class="extra_space">
      {% if item.link != "none" %}
@@ -61,4 +61,35 @@
 
 
     {% endfor %}
+
+    <h1 class="content-listing-sub-header sans bottom_border"> In Progress </h1>
+      {% for item in page.in_progress %}
+      <p class="extra_space">
+      {% if item.link != "none" %}
+       <u><a class="alt" target="_blank" rel="noopener noreferrer" href={{ item.link }}>{{ item.name }}</a></u>
+      {% endif %}
+      {% if item.link == "none" %}
+       <u>{{ item.name }}</u>
+      {% endif %}
+      {% if item.collab != "none" %}
+      with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
+      {% endif %}
+      {% if item.journal != "none" %}
+       <i><b>{{ item.journal }}</b></i>,
+      {% endif %}
+      {% if item.issue != "none" %}
+       <i>{{ item.issue }}</i>
+      {% endif %}
+     {% if item.pdf != "none" %}
+     &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.pdf }}>latest version</a>]
+     {% endif %}
+     {% if item.abstract != "none" %}
+     &nbsp;
+     <div class="expand" style="display: none; height: 0; overflow: hidden;">
+       {{ item.abstract }}
+     </div>
+     {% endif %}
+
+
+     {% endfor %}
  </div>
