@@ -53,7 +53,7 @@ in_progress:
     pdf: none
     link: none
     journal: none
-    abstract: "Coming soon."
+    abstract: "We study whether motivated reasoning influences the narratives that individuals are willing to adopt. Specifically, we test whether individuals find narratives more plausible when they like, rather than dislike, the consequences implied by the narrative. In our experiment, an investor observes historical data from a particular company and decides whether or not to invest in the company. After taking this decision, the investor meets with a financial advisor who proposes an explanation of the company’s historical data to the investor. The investor may then update her beliefs about the company. Our preliminary results indicate that investors tend to reject narratives that contradict past choices they made&mdash;i.e., they reject narratives that suggest that their past investment choices were bad. We do not find any such effect if investors are instead exogenously endowed with an investment in the company. This implies that the <i>act of choosing</i> to invest or not is responsible for the motivated reasoning effect we observe."
   - name: Estimating lying in lying experiments
     collab: none
     pdf: ask me for a draft
