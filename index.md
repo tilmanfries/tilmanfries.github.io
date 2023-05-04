@@ -24,7 +24,7 @@ projects:
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://chr-huber.com/>Christoph Huber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/annadreber/>Anna Dreber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://www.holzmeister.biz/>Felix Holzmeister</a>, and many more
     pdf: none
     link: none
-    journal: r&r at the Proceedings of the National Academy of Sciences
+    journal: Proceedings of the National Academy of Sciences (forthcoming)
     issue: none
     abstract: Please refer to the <a target="_blank" rel="noopener noreferrer"  href=https://manydesigns.online/>project website</a> for more information.
   - name: Observability and lying
