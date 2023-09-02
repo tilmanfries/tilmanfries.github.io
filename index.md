@@ -4,7 +4,7 @@ title: Tilman Fries
 my_name: Tilman Fries
 position: Doctoral researcher
 institution: WZB Berlin and Berlin School of Economics
-email: tilman.fries@wzb.eu
+email: tilman.fries@gmail.com
 projects:
   - name: Narrative persuasion
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
@@ -18,7 +18,7 @@ projects:
     collab: none
     pdf: FriesLyingSignaling.pdf
     link: none
-    journal: r&r at Games and Economic Behavior
+    journal: revise and resubmit at Games and Economic Behavior
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In the theoretical analysis, a signaling motive emerges where agents dislike being suspected of lying and where some lies are more stigmatized than others. The equilibrium prediction of the model can explain experimental data from previous studies, in particular on partial lying, where individuals lie to gain a non payoff-maximizing amount. I discuss the relationship with theoretical models of lying that conceptualize the image concern as an aversion to being suspected of lying and provide applications to narratives, learning, and the disclosure of lies."
   - name: "Competition and moral behavior: A meta-analysis of 45 crowd-sourced experimental designs"
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://chr-huber.com/>Christoph Huber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/annadreber/>Anna Dreber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://www.holzmeister.biz/>Felix Holzmeister</a>, and many more
