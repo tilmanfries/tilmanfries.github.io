@@ -2,9 +2,9 @@
 layout: personal
 title: Tilman Fries
 my_name: Tilman Fries
-position: Doctoral researcher
-institution: WZB Berlin and Berlin School of Economics
-email: tilman.fries@gmail.com
+position: Assistant Professor
+institution: LMU Munich
+email: tilman.fries@econ.lmu.de
 projects:
   - name: Narrative persuasion
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
