@@ -80,6 +80,12 @@
     {% if item.pdf != "none" %}
     &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.pdf }}>latest version</a>]
     {% endif %}
+    {% if item.instructions != "none" %}
+    &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.instructions }}>instructions</a>]
+    {% endif %}
+    {% if item.preregistration != "none" %}
+    &nbsp;[<a target="_blank" rel="noopener noreferrer" href=/assets/pdf/{{ item.preregistration }}>preregistration</a>]
+    {% endif %}
     {% if item.abstract != "none" %}
     &nbsp;
     <details>
