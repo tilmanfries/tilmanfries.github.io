@@ -7,7 +7,7 @@ institution: LMU Munich
 email: tilman.fries@econ.lmu.de
 projects:
   - name: "Narrative persuasion: A brief introduction"
-  collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
     pdf: NarrativePersuasionEncyclopedia.pdf
     instructions: none
     preregistration: none
