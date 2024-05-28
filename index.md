@@ -14,7 +14,6 @@ projects:
     link: none
     journal: prepared for the Encyclopedia of Experimental Social Science
     abstract: none
-
   - name: Narrative persuasion
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
     pdf: BarronFriesNarrativePersuasion.pdf
