@@ -27,8 +27,9 @@ projects:
     pdf: FriesLyingSignaling.pdf
     instructions: none 
     preregistration: none
-    link: none
-    journal: accepted at Games and Economic Behavior
+    link: https://www.sciencedirect.com/science/article/pii/S089982562400112X?via%3Dihub
+    journal: Games and Economic Behavior
+    issue: 2024, 147, 338-376
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In the theoretical analysis, a signaling motive emerges where agents dislike being suspected of lying and where some lies are more stigmatized than others. The equilibrium prediction of the model can explain experimental data from previous studies, particularly on partial lying, where individuals lie to gain a non-payoff maximizing amount. I discuss the relationship with theoretical models of lying that conceptualize the image concern as an aversion to being suspected of lying and provide applications to narratives, learning, the disclosure of lies, and the selection into lying opportunities."
   - name: "Competition and moral behavior: A meta-analysis of 45 crowd-sourced experimental designs"
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://chr-huber.com/>Christoph Huber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/annadreber/>Anna Dreber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://www.holzmeister.biz/>Felix Holzmeister</a>, and many more
@@ -58,6 +59,14 @@ projects:
     issue: 2021, 185, 495-512
     abstract: "We study the effect of entitlement on the willingness to lie. We set up a model of lying where individuals feel more or less entitled to their endowment  depending on how they earned it. When given the opportunity to lie to keep their endowment, individuals who feel more entitled are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants' performance, and in the other, it is determined by a random draw. Our study shows that deservingness influences lying in an intuitive direction: when participants' performance determines income, those who earn less money lie less than those who earn more. We do not find differences in lying when participants perform the same task but lie to keep windfall endowments."
 in_progress:
+  - name: Narratives, belief movements, and market fluctuations
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/view/tonyqfan>Tony Q. Fan</a>
+    pdf: none
+    instructions: none 
+    preregistration: none
+    link: none
+    journal: none
+    abstract: none
   - name: Priors and prejudice
     collab: none
     pdf: none
@@ -76,4 +85,4 @@ in_progress:
     abstract: "We study whether motivated reasoning influences the narratives that individuals are willing to adopt. Specifically, we test whether individuals find narratives more plausible when they like, rather than dislike, the consequences implied by the narrative. In our experiment, an investor observes historical data from a particular company and decides whether or not to invest in the company. After taking this decision, the investor meets with a financial advisor who proposes an explanation of the company’s historical data to the investor. The investor may then update her beliefs about the company. Our preliminary results indicate that investors tend to reject narratives that contradict past choices they made&mdash;i.e., they reject narratives that suggest that their past investment choices were bad. We do not find any such effect if investors are instead exogenously endowed with an investment in the company. This implies that the <i>act of choosing</i> to invest or not is responsible for the motivated reasoning effect we observe."
 ---
 
-I am a microeconomist, with a focus on behavioral and experimental economics. My current research focuses on how belief-based utility impacts strategic decision making and belief formation.
+I am a microeconomist, with a focus on behavioral and experimental economics. My current research focuses on how belief-based utility and narratives impact strategic decision making and belief formation.
