@@ -6,6 +6,14 @@ position: Assistant Professor
 institution: LMU Munich
 email: tilman.fries@econ.lmu.de
 projects:
+  - name: Narrative persuasion
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
+    pdf: BarronFriesNarrativePersuasion.pdf
+    instructions: NarrativePersuasionInstructions.pdf
+    preregistration: NarrativePersuasionPreregistration.pdf
+    link: none
+    journal: revise and resubmit at the American Economic Review
+    abstract: "We study how one person may shape the way another person interprets objective information. They do this by proposing a sense-making explanation (or narrative). Using a theory-driven experiment, we investigate the mechanics of such narrative persuasion. Our results reveal several insights. First, narratives are persuasive: We find that they systematically shift beliefs. Second, narrative fit (coherence with the facts) is a key determinant of persuasiveness. Third, this fit-heuristic is anticipated by narrative-senders, who systematically tailor their narratives to the facts. Fourth, the features of a competing narrative predictably influence both narrative construction and adoption."
   - name: "Narrative persuasion: A brief introduction"
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
     pdf: NarrativePersuasionEncyclopediaEntry.pdf
@@ -14,14 +22,6 @@ projects:
     link: none
     journal: prepared for the Encyclopedia of Experimental Social Science
     abstract: none
-  - name: Narrative persuasion
-    collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
-    pdf: BarronFriesNarrativePersuasion.pdf
-    instructions: NarrativePersuasionInstructions.pdf
-    preregistration: NarrativePersuasionPreregistration.pdf
-    link: none
-    journal: none
-    abstract: "We study how one person may shape the way another person interprets objective information. They do this by proposing a sense-making explanation (or narrative). Using a theory-driven experiment, we investigate the mechanics of such narrative persuasion. Our results reveal several insights. First, narratives are persuasive: We find that they systematically shift beliefs. Second, narrative fit (coherence with the facts) is a key determinant of persuasiveness. Third, this fit-heuristic is anticipated by narrative-senders, who systematically tailor their narratives to the facts. Fourth, the features of a competing narrative predictably influence both narrative construction and adoption."
   - name: Signaling motives in lying games
     collab: none
     pdf: FriesLyingSignaling.pdf
