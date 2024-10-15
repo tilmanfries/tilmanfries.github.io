@@ -75,7 +75,7 @@ in_progress:
     link: none
     journal: none
     abstract: "Social media and internet search engines give easy access to information about others. This paper studies the behavioral consequences when individuals learn more about others they interact with. In principle, as observers learn about decision makers, this limits the ability of decision makers to signal their type through their actions. I provide experimental evidence in support of this theoretical mechanism. In addition, I explore specific channels that can potentially uphold high levels of prosocial behavior over time. I find that imperfect memory&mdash;the observer forgetting what they learned about the decision-maker in the past&mdash;helps to keep prosocial behavior at high levels. However, I also find that individuals are generally not forgiving; they believe that those who acted egoistically in the past will remain egoistic in the future. This lowers the supply of prosocial behavior over time."
-  - name: Motivated narratives
+  - name: Motivated narratives 
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
     pdf: none
     instructions: none 
