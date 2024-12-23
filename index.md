@@ -75,14 +75,12 @@ in_progress:
     link: none
     journal: none
     abstract: "Social media and internet search engines give easy access to information about others. This paper studies the behavioral consequences when individuals learn more about others they interact with. In principle, as observers learn about decision makers, this limits the ability of decision makers to signal their type through their actions. I provide experimental evidence in support of this theoretical mechanism. In addition, I explore specific channels that can potentially uphold high levels of prosocial behavior over time. I find that imperfect memory&mdash;the observer forgetting what they learned about the decision-maker in the past&mdash;helps to keep prosocial behavior at high levels. However, I also find that individuals are generally not forgiving; they believe that those who acted egoistically in the past will remain egoistic in the future. This lowers the supply of prosocial behavior over time."
-  - name: Motivated narratives 
+  - name: Narratives and the act of choosing
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/kaibarron/>Kai Barron</a>
     pdf: none
     instructions: none 
     preregistration: none
     link: none
     journal: none
-    abstract: "We study whether motivated reasoning influences the narratives that individuals are willing to adopt. Specifically, we test whether individuals find narratives more plausible when they like, rather than dislike, the consequences implied by the narrative. In our experiment, an investor observes historical data from a particular company and decides whether or not to invest in the company. After taking this decision, the investor meets with a financial advisor who proposes an explanation of the company’s historical data to the investor. The investor may then update her beliefs about the company. Our preliminary results indicate that investors tend to reject narratives that contradict past choices they made&mdash;i.e., they reject narratives that suggest that their past investment choices were bad. We do not find any such effect if investors are instead exogenously endowed with an investment in the company. This implies that the <i>act of choosing</i> to invest or not is responsible for the motivated reasoning effect we observe."
+    abstract: "We use an experiment to study whether individuals construct and adopt narratives to justify choices. Participants observe data and bet on a hypothetical company. They also develop and receive a narrative about the company's future success. We compare narrative development and adoption to conditions that exogenously assign bets or do not involve them at all. We find that participants selectively doubt narratives that challenge their chosen bet. This selectivity fades when participants hold but did not choose a bet or when the narrative coheres well with the data. People doubt what challenges their choices, but coherent narratives and lack of ownership dissolve the bias."
 ---
-
-I am a microeconomist, with a focus on behavioral and experimental economics. My current research focuses on how belief-based utility and narratives impact strategic decision making and belief formation.

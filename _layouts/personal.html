@@ -5,58 +5,21 @@
 <div class="row">
  <div class="column left">
   <h1 class="content-listing-header sans top_border">{{ page.my_name }}</h1>
- <p>{{ page.position }}</p>
- <p>{{ page.institution }}</p>
+  <p class="extra_space">
+    I am an Assistant Professor in the Department of Economics at LMU Munich.
+  </p> 
+  <p class = "extra_space">
+    I use experiments and applied theory to study questions in behavioral economics.
+    You can find my CV <a target="_blank" rel="noopener noreferrer" href=/assets/pdf/FriesCV.pdf>here.</a> 
+  </p>
   <p class="extra_space"><a href=mailto:{{ page.email }}>{{ page.email }}</a>
   </p>
   <p>
     <img src="{{site.baseurl}}/assets/img/profile_pic.jpg" alt="CH">
-    <div class="credits">
-    Picture credits: <a target="_blank" rel="noopener noreferrer"href="https://jeannakolesova.com/">Jeanna Kolesova</a>
-    </div>
   </p>
 
  </div>
-
- <div class="column middle">
-   <br style=“line-height:500px;”><br>
-   <h1 class="content-listing-sub-header sans bottom_border"> About me </h1>
-   <p class="extra_space"> {{ content }} </p>
-
-   <p class="extra_space"> You can find my CV <a target="_blank" rel="noopener noreferrer" href=/assets/pdf/FriesCV.pdf>here</a>. </p>
-
-     <h1 class="content-listing-sub-header sans bottom_border"> In Progress </h1>
-       {% for item in page.in_progress %}
-       <p class="extra_space">
-       {% if item.link != "none" %}
-        <u><a class="alt" target="_blank" rel="noopener noreferrer" href={{ item.link }}>{{ item.name }}</a></u>
-       {% endif %}
-       {% if item.link == "none" %}
-        <u>{{ item.name }}</u>
-       {% endif %}
-       {% if item.collab != "none" %}
-       with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
-       {% endif %}
-       {% if item.journal != "none" %}
-        <i><b>{{ item.journal }}{% if item.issue != "none" %},{% endif %}</b></i>
-       {% endif %}
-       {% if item.issue != "none" %}
-        <i>{{ item.issue }}</i>
-       {% endif %}
-      {% if item.pdf != "none" %}
-      &nbsp;[{{ item.pdf }}]
-      {% endif %}
-      {% if item.abstract != "none" %}
-      &nbsp;
-      <details>
-      <summary> (<span style="color:#0000cd;">Abstract</span>) </summary>
-      {{ item.abstract }}
-      </details>
-      {% endif %}
-
-
-      {% endfor %}
- </div>
+ 
  <div class="column right bottom_border">
    <br style=“line-height:150px;”><br>
    <h1 class="content-listing-sub-header sans bottom_border"> Research Papers </h1>
@@ -89,7 +52,7 @@
     {% if item.abstract != "none" %}
     &nbsp;
     <details>
-    <summary> (<span style="color:#0000cd;">Abstract</span>) </summary>
+    <summary> (<span class="abstract">Abstract</span>) </summary>
     {{ item.abstract }}
     </details>
     {% endif %}
@@ -98,4 +61,36 @@
     {% endfor %}
 
 
+    <h1 class="content-listing-sub-header sans bottom_border"> In Progress </h1>
+       {% for item in page.in_progress %}
+       <p class="extra_space">
+       {% if item.link != "none" %}
+        <u><a class="alt" target="_blank" rel="noopener noreferrer" href={{ item.link }}>{{ item.name }}</a></u>
+       {% endif %}
+       {% if item.link == "none" %}
+        <u>{{ item.name }}</u>
+       {% endif %}
+       {% if item.collab != "none" %}
+       with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
+       {% endif %}
+       {% if item.journal != "none" %}
+        <i><b>{{ item.journal }}{% if item.issue != "none" %},{% endif %}</b></i>
+       {% endif %}
+       {% if item.issue != "none" %}
+        <i>{{ item.issue }}</i>
+       {% endif %}
+      {% if item.pdf != "none" %}
+      &nbsp;[{{ item.pdf }}]
+      {% endif %}
+      {% if item.abstract != "none" %}
+      &nbsp;
+      <details>
+      <summary> (<span class="abstract">Abstract</span>) </summary>
+      {{ item.abstract }}
+      </details>
+      {% endif %}
+
+
+      {% endfor %}
  </div>
+</div>
