@@ -5,3 +5,4 @@ gem 'github-pages'
 gem 'rouge'
 gem 'tzinfo-data'
 gem "kramdown", ">= 2.3.0"
+gem 'webrick'

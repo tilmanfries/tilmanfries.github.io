@@ -29,7 +29,7 @@ projects:
     preregistration: none
     link: https://www.sciencedirect.com/science/article/pii/S089982562400112X?via%3Dihub
     journal: Games and Economic Behavior
-    issue: 2024, 147, 338-376
+    issue: 2024, 147, 338-376.
     abstract: "This paper studies the implications of agents signaling their moral type in a lying game. In the theoretical analysis, a signaling motive emerges where agents dislike being suspected of lying and where some lies are more stigmatized than others. The equilibrium prediction of the model can explain experimental data from previous studies, particularly on partial lying, where individuals lie to gain a non-payoff maximizing amount. I discuss the relationship with theoretical models of lying that conceptualize the image concern as an aversion to being suspected of lying and provide applications to narratives, learning, the disclosure of lies, and the selection into lying opportunities."
   - name: "Competition and moral behavior: A meta-analysis of 45 crowd-sourced experimental designs"
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://chr-huber.com/>Christoph Huber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/site/annadreber/>Anna Dreber</a>, <a target="_blank" rel="noopener noreferrer"  href=https://www.holzmeister.biz/>Felix Holzmeister</a>, and many more
@@ -38,7 +38,7 @@ projects:
     preregistration: none
     link: https://www.pnas.org/doi/full/10.1073/pnas.2215572120
     journal: Proceedings of the National Academy of Sciences
-    issue: 2023, 120(23), 1-10
+    issue: 2023, 120(23), 1-10.
     abstract: "Does competition affect moral behavior? This fundamental question has been debated among leading scholars for centuries, and more recently, it has been tested in experimental studies yielding a body of rather inconclusive empirical evidence. A potential source of ambivalent empirical results on the same hypothesis is design heterogeneity—variation in true effect sizes across various reasonable experimental research protocols. To provide further evidence on whether competition affects moral behavior and to examine whether the generalizability of a single experimental study is jeopardized by design heterogeneity, we invited independent research teams to contribute experimental designs to a crowd-sourced project. In a large-scale online data collection, 18,123 experimental participants were randomly allocated to 45 randomly selected experimental designs out of 95 submitted designs. We find a small adverse effect of competition on moral behavior in a meta-analysis of the pooled data. The crowd-sourced design of our study allows for a clean identification and estimation of the variation in effect sizes above and beyond what could be expected due to sampling variance. We find substantial design heterogeneity—estimated to be about 1.6 times as large as the average standard error of effect size estimates of the 45 research designs—indicating that the informativeness and generalizability of results based on a single experimental design are limited. Drawing strong conclusions about the underlying hypotheses in the presence of substantive design heterogeneity requires moving toward much larger data collections on various experimental designs testing the same hypothesis."
   - name: Observability and lying
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://rady.ucsd.edu/people/faculty/gneezy/>Uri Gneezy</a>, <a target="_blank" rel="noopener noreferrer"   href=https://sites.google.com/site/agnekajackaite/home>Agne Kajackaite</a>, and <a target="_blank" rel="noopener noreferrer" href=https://danielfparra.github.io/>Daniel Parra</a>
@@ -48,7 +48,7 @@ projects:
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121002778
     abstract: Experimental participants in a cheating game draw a random number and then report any number they wish, receiving a monetary payoff based only on the report. We study how these reports depend on the level of observability of both the random draw and the report by the experimenter. Our results show that whereas increasing the observability of the random draw decreases cheating, increasing the anonymity of the reports does not affect average reports.
     journal: Journal of Economic Behavior & Organization
-    issue: 2021, 189, 132-149
+    issue: 2021, 189, 132-149.
   - name: "Because I (don't) deserve it: Entitlement and lying behavior"
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://danielfparra.github.io/>Daniel Parra</a>
     pdf: FriesParraLyingEntitlement.pdf
@@ -56,7 +56,7 @@ projects:
     preregistration: none
     link: https://www.sciencedirect.com/science/article/abs/pii/S0167268121001013?dgcid=author
     journal: Journal of Economic Behavior & Organization
-    issue: 2021, 185, 495-512
+    issue: 2021, 185, 495-512.
     abstract: "We study the effect of entitlement on the willingness to lie. We set up a model of lying where individuals feel more or less entitled to their endowment  depending on how they earned it. When given the opportunity to lie to keep their endowment, individuals who feel more entitled are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants' performance, and in the other, it is determined by a random draw. Our study shows that deservingness influences lying in an intuitive direction: when participants' performance determines income, those who earn less money lie less than those who earn more. We do not find differences in lying when participants perform the same task but lie to keep windfall endowments."
 in_progress:
   - name: Narratives, belief movements, and market fluctuations
