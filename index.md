@@ -59,7 +59,7 @@ projects:
     issue: 2021, 185, 495-512.
     abstract: "We study the effect of entitlement on the willingness to lie. We set up a model of lying where individuals feel more or less entitled to their endowment  depending on how they earned it. When given the opportunity to lie to keep their endowment, individuals who feel more entitled are encouraged to lie while others are discouraged. To test the model predictions we use a laboratory experiment where we compare the lying behavior of participants endowed with a high endowment and participants endowed with a low endowment. In one treatment, the allocation of the endowment is decided by participants' performance, and in the other, it is determined by a random draw. Our study shows that deservingness influences lying in an intuitive direction: when participants' performance determines income, those who earn less money lie less than those who earn more. We do not find differences in lying when participants perform the same task but lie to keep windfall endowments."
 in_progress:
-  - name: Narratives, belief movements, and economic fluctuations
+  - name: Narratives, belief movements, and economic fluctuations [out soon]
     collab: <a target="_blank" rel="noopener noreferrer"  href=https://sites.google.com/view/tonyqfan>Tony Q. Fan</a>
     pdf: none
     instructions: none 
@@ -75,4 +75,20 @@ in_progress:
     link: none
     journal: none
     abstract: "Do people convince themselves that their choices were correct? This study uses an experiment to investigate whether individuals form narratives to justify their decisions. Participants observe historical performance data from a hypothetical company, develop a narrative to explain the data, and use it to predict the company’s future success. They then encounter an advisor who proposes an alternative narrative, and they can choose whether to update their beliefs about the company's prospects. To isolate the role of choice, we compare individuals who choose to take a stake in the company's success (or failure) with those who (i) have no stake or (ii) are exogenously assigned a stake. We find that individuals are skeptical of narratives contradicting their past choices. However, when the alternative narrative is highly coherent with the data, individuals become more open to revising their beliefs; even when doing so contradicts their past choices."
+  - name: Fake news, trolling, and information transmission
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://wzb.eu/de/personen/steffen-huck>Steffen Huck</a> and <a target="_blank" rel="noopener noreferrer"  href=https://www.paulinevorjohann.com/>Pauline Vorjohann</a>
+    pdf: none
+    instructions: none 
+    preregistration: none
+    link: none
+    journal: none
+    abstract: none
+  - name: The possibility of honesty
+    collab: <a target="_blank" rel="noopener noreferrer"  href=https://danielfparra.github.io/>Daniel Parra</a>
+    pdf: none
+    instructions: none 
+    preregistration: none
+    link: none
+    journal: none
+    abstract: none
 ---
