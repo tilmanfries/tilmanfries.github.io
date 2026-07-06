@@ -12,7 +12,7 @@
     I use applied theory and experiments to study questions in behavioral economics.
     You can find my CV <a target="_blank" rel="noopener noreferrer" href=/assets/pdf/FriesCV.pdf>here.</a> 
   </p>
-  <p class="extra_space"><a href=mailto:{{ page.email }}>{{ page.email }}</a>
+  <p class="extra_space"><a href=mailto: {{ page.email }}>{{ page.email }}</a>
   </p>
   <br>
   <p>
@@ -30,7 +30,7 @@
      {% for item in page.projects %}
      <p class="extra_space">
      {% if item.link != "none" %}
-      <u><a class="alt" target="_blank" rel="noopener noreferrer" href={{ item.link }}>{{ item.name }}</a></u>
+      <u><a class="alt" target="_blank" rel="noopener noreferrer" href= {{ item.link }}>{{ item.name }}</a></u>
      {% endif %}
      {% if item.link == "none" %}
       <u>{{ item.name }}</u>
@@ -39,7 +39,7 @@
      with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
      {% endif %}
      {% if item.journal != "none" %}
-      <i><b>{{ item.journal }}{% if item.issue != "none" %},{% endif %}</b></i>
+      <i><b>{{ item.journal }}{% if item.issue != "none" %}{% endif %}</b></i>
      {% endif %}
      {% if item.issue != "none" %}
       <i>{{ item.issue }}</i>
@@ -78,7 +78,7 @@
        with {{ item.collab}}{% if item.journal != "none" %},{% endif %}
        {% endif %}
        {% if item.journal != "none" %}
-        <i><b>{{ item.journal }}{% if item.issue != "none" %}{% endif %}</b></i>
+        <i><b>{{ item.journal }}{% if item.issue != "none" %}{% endif %} </b></i>
        {% endif %}
        {% if item.issue != "none" %}
         <i>{{ item.issue }}</i>
